@@ -1,1 +1,1 @@
-# CPSC354_Future_of_Programming_Languages
+# Future_of_Programming_Languages (2024)
