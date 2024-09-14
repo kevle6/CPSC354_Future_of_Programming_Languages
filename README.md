@@ -1,4 +1,4 @@
-# The Future of Quantum Computing Programming Languages Research (2024) with GPT-4o / GPT-4o mini
+# The Future of Quantum Computing Programming Languages Research (2024); Litearture Review using with GPT-4o / GPT-4o mini
 
 **Question:** What is the future of quantum computing programming languages research?
 
