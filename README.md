@@ -1,1 +1,1 @@
-# Future_of_Programming_Languages (2024)
+# The Future of Programming Languages (2024)
