@@ -4,13 +4,13 @@
 
 ## References
 
+* Heim, B., Soeken, M., Marshall, S. et al. Quantum programming languages. Nat Rev Phys 2, 709–722 (2020). https://www.nature.com/articles/s42254-020-00245-7. https://doi.org/10.1038/s42254-020-00245-7
 * https://silq.ethz.ch/
 * https://quantumcomputingreport.com/review-of-the-cirq-quantum-software-framework/
 * https://brunorijsman.github.io/quantum-resource-list/quantum-computing-programming-languages-and-frameworks.html
 * https://en.wikipedia.org/wiki/Quantum_programming
 * https://quantumzeitgeist.com/cirq-vs-qiskit-vs-q-3-quantum-programming-languages-which-should-you-choose/
 * https://thequantuminsider.com/2020/07/12/silq-and-the-quest-for-a-real-quantum-programming-language/
-* https://www.nature.com/articles/s42254-020-00245-7
 
 The future of **quantum computing programming languages research** is a rapidly expanding area with immense potential for reshaping fields like cryptography, optimization, and materials science. As quantum computers become more powerful and accessible, research into quantum programming languages will address several key challenges and innovations. Here's what the future of this field might look like:
 
