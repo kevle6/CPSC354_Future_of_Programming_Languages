@@ -53,6 +53,10 @@ The future of **quantum computing programming languages research** is a rapidly 
 ### Conclusion
 Quantum computing programming languages are still in their infancy, but research in this field is progressing rapidly. The future will see the development of languages that are more **user-friendly, hardware-aware, and fault-tolerant**, allowing programmers to tackle more complex quantum problems with ease. As quantum computing evolves, so too will the tools and languages used to interact with it, bringing quantum computing closer to mainstream software development.
 
+## Additional Questions
+
+**Questions:** How has the question been addressed in the past? What are the historical developments? Which subfields of PL contributed to investigating the question? How did these subfields influence each other? Who are the influential researchers who left their mark on the field? What are some of the most influential research articles, books, software, etc?
+
 The development of quantum programming languages has been shaped by a rich history of both quantum computing theory and programming language (PL) design. Below is an overview of how this question has been addressed historically, the key subfields of PL that contributed to quantum programming, and the influential researchers and works in the field.
 
 ### **Historical Developments**
