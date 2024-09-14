@@ -1,11 +1,11 @@
-# The Future of Quantum Computing Programming Languages Research (2024); Litearture Review using with GPT-4o / GPT-4o mini
+# The Future of Quantum Computing Programming Languages Research (2024); Literature Review using GPT-4o / GPT-4o mini
 
 **Question:** What is the future of quantum computing programming languages research?
 
-The future of **quantum computing programming languages research** is a rapidly expanding area that holds immense potential for reshaping fields like cryptography, optimization, and materials science. As quantum computers become more powerful and accessible, research into quantum programming languages will address several key challenges and innovations. Here's what the future of this field might look like:
+The future of **quantum computing programming languages research** is a rapidly expanding area with immense potential for reshaping fields like cryptography, optimization, and materials science. As quantum computers become more powerful and accessible, research into quantum programming languages will address several key challenges and innovations. Here's what the future of this field might look like:
 
 ### 1. **Higher-Level Quantum Abstractions**
-   One of the primary challenges in quantum programming is the complexity of directly manipulating quantum bits (qubits) and quantum gates. Current quantum programming languages like **Qiskit (Python-based)**, **Quipper**, and **Cirq** provide low-level control over quantum operations. The future will likely focus on creating **higher-level abstractions** that allow programmers to work with quantum algorithms more easily, without needing in-depth knowledge of quantum mechanics. This will make quantum computing more accessible to software developers outside of physics and specialized fields.
+   One of the primary challenges in quantum programming is the complexity of directly manipulating quantum bits (qubits) and quantum gates. Current quantum programming languages like **Qiskit (Python-based)**, **Quipper**, and **Cirq** provide low-level control over quantum operations. The future will likely focus on creating **higher-level abstractions** that allow programmers to work with quantum algorithms more easily without needing in-depth knowledge of quantum mechanics. This will make quantum computing more accessible to software developers outside of physics and specialized fields.
 
 ### 2. **Domain-Specific Languages (DSLs)**
    As quantum applications evolve, there will be a push toward **domain-specific languages** designed for particular fields like cryptography, chemistry, or optimization. These languages could include built-in primitives for specific quantum algorithms, such as Shor's algorithm for factoring or Grover's search algorithm. By streamlining the development process for specialized quantum applications, these DSLs will accelerate innovation in industries that benefit most from quantum computing.
