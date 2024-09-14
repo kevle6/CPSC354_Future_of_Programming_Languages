@@ -1,6 +1,6 @@
 # The Future of Programming Languages (2024)
 
-** Question: ** What is the future of quantum computing programming languages research?
+**Question:** What is the future of quantum computing programming languages research?
 
 The future of **quantum computing programming languages research** is a rapidly expanding area that holds immense potential for reshaping fields like cryptography, optimization, and materials science. As quantum computers become more powerful and accessible, research into quantum programming languages will address several key challenges and innovations. Here's what the future of this field might look like:
 
