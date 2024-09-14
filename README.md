@@ -4,7 +4,7 @@
 
 ## References
 
-* Heim, B., Soeken, M., Marshall, S. et al. Quantum programming languages. Nat Rev Phys 2, 709–722 (2020). https://www.nature.com/articles/s42254-020-00245-7. https://doi.org/10.1038/s42254-020-00245-7
+* Heim, B., Soeken, M., Marshall, S. et al. Quantum programming languages. Nat Rev Phys 2, 709–722 (2020). https://doi.org/10.1038/s42254-020-00245-7
 * https://silq.ethz.ch/
 * https://quantumcomputingreport.com/review-of-the-cirq-quantum-software-framework/
 * https://brunorijsman.github.io/quantum-resource-list/quantum-computing-programming-languages-and-frameworks.html
